@@ -1,6 +1,6 @@
-﻿using System.Xml;
+﻿
 
-namespace Tabuleiro
+namespace tabuleiro
 {
     class Posicao
     {
